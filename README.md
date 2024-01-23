@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Emily👋
 - 👩🏼‍🎓 Aluna da escola profissionalizante Mário Alencar
--  📍  2° ano do curso de Desenvolvimento de Sistema
+-  📍  3º ano do curso de Desenvolvimento de Sistema
 -  🌱  Estudando HTML e CSS
 
 
