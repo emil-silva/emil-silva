@@ -1,3 +1,19 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fc9662&height=100&section=header"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FC9662&center=true&vCenter=true&width=1000&lines=Olá%2C+Seja+Bem-vindo(a)+ao+meu+Github;Meu+Nome+é+Emily+Freitas+:);">
+
+<br />
+<br />
+<br />
+
+<div align="center"> 
+   <img width="30%" src=https://myoctocat.com/assets/images/svgs/="40px">
+
+
+
+
+
+
 ###   Olá  👋  
 - 👩🏼‍🎓 Aluna da escola profissionalizante Mário Alencar
 - 📍 3º do ensino médio curso Desenvolvimento de Sistema                                 
