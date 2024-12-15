@@ -18,5 +18,5 @@
 ##
  <div> 
   <a href="https://instagram.com/_em.yl_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a <p>
-  <a href="https://https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a <p>                                                                <a href="https:www.linkedin.com/in/emily-silva-23b429277" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a                                                                                           
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a <p>                <a href="https:www.linkedin.com/in/emily-silva-23b429277" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a                                                                                           
 </div>
