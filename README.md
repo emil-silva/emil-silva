@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=header"/>
 <div display: flex;>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=ADD8E6&center=true&vCenter=true&width=1000&lines=Olá%2C+Seja+Bem-vindo(a)+ao+meu+Github;Meu+Nome+é+Emily+Freitas+:);">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A363C9&center=true&vCenter=true&width=1000&lines=Olá%2C+Seja+Bem-vindo(a)+ao+meu+Github;Meu+Nome+é+Emily+Freitas+:);">
 
 <br />
 <br />
